@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "gulp-twig": "https://github.com/terox/gulp-twig/tarball/a614e909b291ae272113fccd6ea0ac9cb5b88c9c",
-    "marked": "^0.3.2"
+    "marked": "^4.0.10"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
